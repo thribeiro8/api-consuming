@@ -1,0 +1,15 @@
+Express:
+Vai ajudar a criar a API;
+
+Nodemon:
+Vai observar a API enquanto modifico, ele faz o restart do servidor;
+
+Cors:
+Vai permitir o que eu faça acesso do frontend para a minha API;
+
+Axios: 
+É um cliente HTTP baseado em Promises para fazer requisições. 
+Pode ser utilizado tanto no navegador quando no Node.js.
+
+
+ 
